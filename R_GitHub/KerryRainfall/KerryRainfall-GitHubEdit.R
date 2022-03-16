@@ -1,5 +1,6 @@
 # Author: @WallStCrash
-#
+# Title:  KerryRainfall-GitHubEdit.R
+# Aim:    Brief exploratory analysis of rainfall in Co Kerry Ireland as a time-series.
 
 library(tidyverse)
 library(forecast)
